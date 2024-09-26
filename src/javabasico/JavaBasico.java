@@ -46,6 +46,11 @@ public class JavaBasico {
                    ex.manejoerrores();
                    
                    break;
+               case 5:
+                   EstructuraDatos et = new EstructuraDatos();
+                   //et.array();
+                   //et.list();
+                   et.map();
                    
     }
 }
